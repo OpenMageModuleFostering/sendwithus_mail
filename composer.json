@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Sendwithus_Mail",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Sendwithus for Magento",
+    "authors": [
+    {
+        "name": "Matt Harris",
+        "email": "matt@sendwithus.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
